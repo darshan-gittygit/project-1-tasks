@@ -1,8 +1,8 @@
 # Wire Shark Packet Analysis
 
-Name: B. Darshan Sai Naath
+** Name **: B. Darshan Sai Naath
 
-Roll Number: 241CS114
+** Roll Number **: 241CS114
 
 ### 1. Protocol Distribution
 
@@ -14,7 +14,7 @@ The capture shows multiple network-layer and transport-layer protocols in action
 
 The top five protocols were:
 
-| Protocol | Percentage | Purpose |
+| Protocol | Percentage (expected) | Purpose |
 |-----------|-------------|----------|
 | Ethernet II | ≈ 100 % (Observed: 100 %) | Frames used to carry all packets on the local network. |
 | IPv4 | ≈ 90 % (Observed: 85.2%) | Responsible for routing packets between devices over the Internet. |
