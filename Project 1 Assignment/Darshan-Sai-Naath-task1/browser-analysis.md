@@ -118,7 +118,7 @@ Using the Network tab, I measured the total load time and examined the timing br
 
 - Websites with **more dynamic or media-heavy content** naturally make more requests and take longer to load.
 - **TLS encryption** adds a small delay during the handshake but is essential for privacy and integrity.
-- **TTFB (Time To First Byte)** is a strong indicator of server responsiveness — a shorter TTFB means faster backend performance.
+- **TTFB (Time To First Byte)** is a strong indicator of server responsiveness and a shorter TTFB means faster backend performance.
 - Understanding these phases is important for VPN or dVPN projects because every stage (DNS lookup, connection, transfer) can be affected by routing and encryption overhead.
 
 ---
