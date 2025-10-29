@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 This project explores the working principles behind **Blockchain-based Decentralized VPNs (dVPNs)** — secure, peer-to-peer networks where users share bandwidth and route encrypted traffic without relying on centralized servers.  
 
 To understand and build towards this idea, the project is divided into **multiple tasks**, each focusing on key layers of network communication, traffic analysis, and protocol simulation.
@@ -27,5 +27,3 @@ This understanding forms the base for implementing decentralized, blockchain-bac
 - Insight into how **VPNs** (and by extension, **dVPNs**) maintain security and anonymity by encrypting and rerouting traffic.  
 
 ---
-
-## 📂 Repository Structure
