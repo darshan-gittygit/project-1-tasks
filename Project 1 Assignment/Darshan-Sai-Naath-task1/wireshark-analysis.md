@@ -1,8 +1,8 @@
 # Wire Shark Packet Analysis
 
-** Name **: B. Darshan Sai Naath
+Name: B. Darshan Sai Naath
 
-** Roll Number **: 241CS114
+Roll Number: 241CS114
 
 ### 1. Protocol Distribution
 
