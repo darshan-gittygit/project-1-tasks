@@ -85,7 +85,7 @@ Using the Network tab, I measured the total load time and examined the timing br
 
 | Website | Total Load Time (usually) | Longest Request | Type | Notes |
 |----------|-----------------|-----------------|------|-------|
-| **neverssl.com** | ~0.5 s (Here the Load time was 806 ns) | index.html | HTML | A single, simple page — loads almost instantly. |
+| **neverssl.com** | ~0.5 s (Here the Load time was 806 ms) | index.html | HTML | A single, simple page — loads almost instantly. |
 | **github.com** | ~3.0 s (Here the Load time was 2.26 s) | main.js | JavaScript | Large JS bundle for interactive UI; most time spent on TTFB (server response delay). |
 | **youtube.com** | ~5.0 s (Here the Load time was 3.03 s) | player.js / media preload | JS / Media | Loads heavy scripts and media elements asynchronously, plus background API calls. |
 
