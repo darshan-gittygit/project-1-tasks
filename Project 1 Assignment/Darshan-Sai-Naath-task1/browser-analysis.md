@@ -31,8 +31,8 @@
 
 #### Can we see the actual data?
 
-- **HTTP:** Yes — both the request headers and the response body are visible in plain text. Anyone using a sniffer like Wireshark can read passwords, cookies, or form data.
-- **HTTPS:** No — only the handshake and encrypted packets are visible. The browser and server exchange keys during the **TLS handshake**, and all further data is encrypted using those session keys.
+- **HTTP:** Yes, both the request headers and the response body are visible in plain text. Anyone using a sniffer like Wireshark can read passwords, cookies, or form data.
+- **HTTPS:** No, only the handshake and encrypted packets are visible. The browser and server exchange keys during the **TLS handshake**, and all further data is encrypted using those session keys.
 
 #### Why is HTTPS more secure?
 
